@@ -4,7 +4,7 @@
 ###Clone Project By sing command
 
 ```
-git clone 
+git clone https://github.com/Suhag2001/elearningportalwithdatabase.git
 ```
 
 # Setting Up a PHP Project with XAMPP
