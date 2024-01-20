@@ -1,13 +1,11 @@
 #E Learning Portal 
 
 
-###Clone Project By sing command
+##Clone Project By unsing below command :
 
 ```
 git clone https://github.com/Suhag2001/elearningportalwithdatabase.git
 ```
-
-# Setting Up a PHP Project with XAMPP
 
 ## Step 1: Download and Install XAMPP
 
@@ -17,8 +15,8 @@ git clone https://github.com/Suhag2001/elearningportalwithdatabase.git
 
 ## Step 2:Extract Download project zip
 
-- First create the database and import the database file by creating the db name "capstone".
-- Then add your extracted project file into "C:\xampp\htdocs" this file path on your local.
+- First create the database and import the database file(which is available in db folder) by creating the db name "capstone".
+- Then add your clone project folder into "C:\xampp\htdocs" this file path on your local.
 
 ## Step 3: Start XAMPP Services
 
