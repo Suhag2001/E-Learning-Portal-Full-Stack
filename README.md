@@ -1,7 +1,7 @@
-#E Learning Portal 
+# E Learning Portal 
 
 
-##Clone Project By unsing below command :
+## Clone Project By unsing below command :
 
 ```
 git clone https://github.com/Suhag2001/elearningportalwithdatabase.git
@@ -21,9 +21,14 @@ git clone https://github.com/Suhag2001/elearningportalwithdatabase.git
 ## Step 3: Start XAMPP Services
 
 - Launch XAMPP Control Panel.
-- Start Apache by clicking "Start" next to "Apache."
+- Start Apache and MySql by clicking "Start" next to "Apache" and "MySql."
 
 ## Step 4: Open the database and project by using below links
 
 - Open project `http://localhost/index.php` in your browser.
 - Open database `http://localhost/phpmyadmin/` in your browser.
+
+### Project View :
+
+![Image Alt Text](images/your-image-file.png)
+
